@@ -3,6 +3,7 @@
     package="com.mobile.sqliteuas">
 <!--Nama : Diofavian Rafif Chairulsyah-->
 <!--NIM : 41522010091-->
+<!--Uas mobile programing-->
     <application
         android:name="com.mobile.sqliteuas.util.MyApp"
         android:allowBackup="true"
