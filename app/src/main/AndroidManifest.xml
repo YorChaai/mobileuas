@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.mobile.sqliteuas">
-
+<!--Nama : Diofavian Rafif Chairulsyah-->
+<!--NIM : 41522010091-->
     <application
         android:name="com.mobile.sqliteuas.util.MyApp"
         android:allowBackup="true"
